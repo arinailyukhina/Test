@@ -23,7 +23,7 @@ image::https://raw.githubusercontent.com/arinailyukhina/work/main/Images/4.png[�
 
 > Это важно! Проверьте правильность ввода данных по паспорту. Если допущены ошибки, то билет придётся переоформлять. Эта процедура может быть платной!
 
-image::https://raw.githubusercontent.com/arinailyukhina/work/main/Images/5.png[Ввод личных данных]
+image::https://raw.githubusercontent.com/arinailyukhina/work/main/Images/5.PNG[Ввод личных данных]
 
 image::https://raw.githubusercontent.com/arinailyukhina/work/main/Images/6.png[Ввод личных данных 2]
 
